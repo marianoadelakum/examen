@@ -11,3 +11,10 @@ public static boolean hyperPar(int num) {
 }
          return true;
  }
+
+ else {
+     return false
+ }
+ {
+
+ 
