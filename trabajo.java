@@ -17,4 +17,6 @@ public static boolean hyperPar(int num) {
  }
  {
 
+print("hola mundo")
+
  
