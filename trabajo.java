@@ -17,4 +17,4 @@ public static boolean hyperPar(int num) {
  }
  {
 
- 
+ tfrghyjkilouipo
